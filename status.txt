@@ -10,3 +10,9 @@ Performing git pull / second change
 --------------------
 
 This is version 2.0
+
+
+-------------------
+
+
+This is the change after cloning
